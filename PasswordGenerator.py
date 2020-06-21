@@ -25,4 +25,4 @@ for i in range(100000):
     l2.append(l)
     c+=1
 
-    #print(l)    
+    print(l)    
